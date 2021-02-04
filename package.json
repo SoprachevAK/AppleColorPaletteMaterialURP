@@ -1,0 +1,22 @@
+{
+  "name": "com.soprachevak.apple-color-palette-material-urp",
+  "version": "1.0.0",
+  "displayName": "Apple Color Palette",
+  "description": "Add colors material URP from apple guidelines",
+  "keywords": [
+    "UI",
+    "Color",
+    "Apple",
+    "Material",
+    "URP"
+  ],
+  "dependencies": {
+    "com.soprachevak.apple-color-palette": "1.0.1"
+  },
+  "author": {
+    "name": "Soprachev Andrei",
+    "email": "soprachev@mail.ru",
+    "url": "https://soprachev.com"
+  },
+  "unity": "2019.4"
+}
